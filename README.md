@@ -20,6 +20,7 @@ Our collection includes a range of games to cater to different interests and ski
 
 - **Tetris**: The classic block-stacking game that never goes out of style.
 - **Sudoku**: Challenge your logic and reasoning skills with Sudoku puzzles.
+- **SnakeGame**: Experience childhood nostalgia by allowing the snake to eat the apple and protect it to achieve high scores.
 We are continuously adding more games to keep the fun going, so stay tuned for updates!
 
 ## Getting Started
